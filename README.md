@@ -14,17 +14,14 @@
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Yana-Palam&style=flat-square&color=blue" alt=""></p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### :woman_technologist: &nbsp;About Me :
 I am a Front Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Odessa.
 
 - My specialty is building web applications using HTML5/CSS3, JavaScript ES6+, TypeScript, React ( API, React-Router-dom, Redux-Toolkit, styled-components). 
 - I have experience building NodeJS back end.
-
-  ---
+  
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
