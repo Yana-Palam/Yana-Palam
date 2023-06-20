@@ -56,7 +56,7 @@ I am Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-### 🏆GitHub Trophies:
+### 🏆 GitHub Trophies :
 ![](https://github-trophies.vercel.app/?username=Yana-Palam&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
