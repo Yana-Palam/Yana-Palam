@@ -16,7 +16,7 @@
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :woman_technologist: &nbsp;About Me :
-I am a Front Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Odessa.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Odessa.
 
 - 🔭 My specialty is building web applications. 
 - 🌱 I have experience building NodeJS back-end.
