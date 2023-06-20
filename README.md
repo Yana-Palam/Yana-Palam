@@ -18,8 +18,10 @@
 ### :woman_technologist: &nbsp;About Me :
 I am a Front Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Odessa.
 
-- My specialty is building web applications using HTML5/CSS3, JavaScript ES6+, TypeScript, React ( API, React-Router-dom, Redux-Toolkit, styled-components). 
-- I have experience building NodeJS back end.
+- 🔭 My specialty is building web applications. 
+- 🌱 I have experience building NodeJS back-end.
+- ⚡ I have experience with implementing both individual and team projects. Also, I have hands-on experience in following Agile /Scrum methodology when working in a team.
+- 📫 I have a higher technical education, a specialist degree in computer science.
   
 ---
 
