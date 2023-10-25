@@ -20,7 +20,7 @@ I am Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🔭 My specialty is building web applications. 
 - 🌱 I have experience building NodeJS back-end.
-- ⚡ I have experience with implementing both individual and team projects. Also, I have hands-on experience in following Agile /Scrum methodology when working in a team.
+- ⚡ I have experience with implementing both individual and team/commercial projects. Also, I have hands-on experience in following Agile /Scrum methodology.
 - 📫 I have a higher technical education, a specialist degree in computer science.
   
 ---
